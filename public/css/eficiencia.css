@@ -1,0 +1,37 @@
+table td{
+    text-align: center;
+}
+table{
+    border: black 3px solid ;
+}
+tbody{
+    background-color: white;
+}
+label{
+    font-size: 22px;
+    color: #000000 !important;
+    font-weight: bold;
+}
+.encabezado1{
+    background-color: orange;
+    color: black;
+}
+.encabezado2{
+    background-color: black;
+    color: white;
+}
+.infe_black{
+    border-bottom: black 3px solid;
+}
+.infe_white{
+    border-bottom: white 2px solid;
+}
+.drch_white{
+    border-right: white 2px solid;
+}
+.drch_black{
+    border-right: black 3px solid;
+}
+.letraWhite{
+    color: white !important;
+}

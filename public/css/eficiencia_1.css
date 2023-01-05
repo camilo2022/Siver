@@ -1,0 +1,44 @@
+table td{
+    text-align: center;
+}
+table{
+    border: black 6px solid ;
+}
+tbody{
+    background-color: white;
+}
+label{
+    font-size: 20px;
+    color: #000000 !important;
+    font-weight: bold;
+}
+.encabezado1{
+    background-color: orange;
+    color: black;
+}
+.encabezado2{
+    background-color: black;
+    color: white;
+}
+.infe_black{
+    border-bottom: black 3px solid;
+}
+.infe_white{
+    border-bottom: white 2px solid;
+}
+.drch_white{
+    border-right: white 2px solid;
+}
+.drch_black{
+    border-right: black 6px solid;
+    height: 50px;
+}
+.drch_black2{
+    border-right: black 3px solid;
+}
+.border_black_right{
+    border-right: black 2px solid;
+}
+.letraWhite{
+    color: white !important;
+}

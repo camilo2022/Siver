@@ -1,0 +1,151 @@
+.img{
+    display:block;
+    margin:auto;
+    width: 270px;
+    height: 122px;
+}
+
+.encabezadoPrincipal{
+    margin: auto;
+    text-align: center;
+    font-size: 25px;
+}
+
+.tablaFila1{
+    font-weight: bold;
+}
+
+.cTela{
+    width: 250px;
+    font-weight: bold;
+    text-transform:uppercase;
+}
+
+.tela{
+    border: 0px;
+    background: white;
+}
+
+#nametela{
+    width: 470px;
+    text-align: left;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+#codtela{
+    width: 470px;
+    text-align: left;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+.d{
+    width: 190px;
+}
+
+.letraRoja{
+    color: red;
+    font-weight: bold;
+    text-transform:uppercase;
+}
+
+.fondoDurazno{
+    background-color: rgb(255, 214, 187);
+}
+
+.fondoVerde{
+    background-color: rgb(36, 228, 36);
+    font-weight: bold;
+    text-transform:uppercase;
+}
+
+.fondoMostaza{
+    background-color: rgba(233, 230, 42, 0.979);
+}
+
+.fondoAzul{
+    background-color: blue;
+    color: white;
+}
+
+.fondoAzulClaro{
+    background-color: aqua;
+}
+
+.fondoAmarillo{
+    background-color: yellow;
+}
+
+.fondoRosa{
+    background-color: pink;
+}
+
+.fondoAzulOscuro{
+    background-color: rgb(140, 152, 255);
+}
+
+.camposF1{
+    height: 30px;
+}
+
+input{
+    text-align: center;
+    font-size: 16px;
+    width: 100px;
+    border: 0px;
+    text-transform:uppercase
+}
+
+.california{
+    width: 1000px ;
+    text-transform:uppercase;
+    font-weight: bold;
+}
+
+.fotosPrendas{
+    width: 400px;
+    height: 50px;
+}
+
+.marca{
+    width: 180px;
+}
+
+option{
+    text-align: center;
+}
+
+table th{
+    text-align: center;  
+}
+
+table td{
+    text-align: center;
+    border: black 1px solid;
+    width: 100px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+tbody{
+    background-color: white;
+}
+
+select{
+    border: 0px;
+    text-align: center;
+    width: 100px;
+}
+
+option{
+    background-color: white;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+
